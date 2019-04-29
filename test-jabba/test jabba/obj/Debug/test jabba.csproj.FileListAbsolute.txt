@@ -1,0 +1,53 @@
+C:\Users\jarir\source\repos\test-jabba\test jabba\bin\Debug\test jabba.exe.config
+C:\Users\jarir\source\repos\test-jabba\test jabba\bin\Debug\test jabba.exe
+C:\Users\jarir\source\repos\test-jabba\test jabba\bin\Debug\test jabba.pdb
+C:\Users\jarir\source\repos\test-jabba\test jabba\bin\Debug\MySql.Data.dll
+C:\Users\jarir\source\repos\test-jabba\test jabba\bin\Debug\Google.Protobuf.dll
+C:\Users\jarir\source\repos\test-jabba\test jabba\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jarir\source\repos\test-jabba\test jabba\bin\Debug\MySql.Data.xml
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test jabba.csprojAssemblyReference.cache
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test_jabba.Dashboard.resources
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test_jabba.Ent1.resources
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test_jabba.Form1.resources
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test_jabba.Properties.Resources.resources
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test jabba.csproj.GenerateResource.cache
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test jabba.csproj.CoreCompileInputs.cache
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test jabba.csproj.CopyComplete
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test jabba.exe
+C:\Users\jarir\source\repos\test-jabba\test jabba\obj\Debug\test jabba.pdb
+E:\test-jabba\test jabba\bin\Debug\test jabba.exe.config
+E:\test-jabba\test jabba\bin\Debug\test jabba.exe
+E:\test-jabba\test jabba\bin\Debug\test jabba.pdb
+E:\test-jabba\test jabba\bin\Debug\Google.Protobuf.dll
+E:\test-jabba\test jabba\bin\Debug\BouncyCastle.Crypto.dll
+E:\test-jabba\test jabba\bin\Debug\MySql.Data.xml
+E:\test-jabba\test jabba\obj\Debug\test jabba.csprojAssemblyReference.cache
+E:\test-jabba\test jabba\obj\Debug\test_jabba.Dashboard.resources
+E:\test-jabba\test jabba\obj\Debug\test_jabba.Ent1.resources
+E:\test-jabba\test jabba\obj\Debug\test_jabba.Form1.resources
+E:\test-jabba\test jabba\obj\Debug\test_jabba.Properties.Resources.resources
+E:\test-jabba\test jabba\obj\Debug\test jabba.csproj.GenerateResource.cache
+E:\test-jabba\test jabba\obj\Debug\test jabba.csproj.CoreCompileInputs.cache
+E:\test-jabba\test jabba\obj\Debug\test jabba.csproj.CopyComplete
+E:\test-jabba\test jabba\obj\Debug\test jabba.exe
+E:\test-jabba\test jabba\obj\Debug\test jabba.pdb
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test jabba.csprojAssemblyReference.cache
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test_jabba.Dashboard.resources
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test_jabba.Ent_2_Emp.resources
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test_jabba.Ent_3_Client.resources
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test_jabba.Ent_4_Order.resources
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test_jabba.Ent1.resources
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test_jabba.Form1.resources
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test_jabba.Properties.Resources.resources
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test jabba.csproj.GenerateResource.cache
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test jabba.csproj.CoreCompileInputs.cache
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test jabba.exe
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test jabba.pdb
+D:\V-Studio Projects\test-jabba\test jabba\bin\Debug\test jabba.exe.config
+D:\V-Studio Projects\test-jabba\test jabba\bin\Debug\test jabba.exe
+D:\V-Studio Projects\test-jabba\test jabba\bin\Debug\test jabba.pdb
+D:\V-Studio Projects\test-jabba\test jabba\bin\Debug\MySql.Data.dll
+D:\V-Studio Projects\test-jabba\test jabba\bin\Debug\Google.Protobuf.dll
+D:\V-Studio Projects\test-jabba\test jabba\bin\Debug\BouncyCastle.Crypto.dll
+D:\V-Studio Projects\test-jabba\test jabba\bin\Debug\MySql.Data.xml
+D:\V-Studio Projects\test-jabba\test jabba\obj\Debug\test jabba.csproj.CopyComplete
